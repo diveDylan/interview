@@ -3,12 +3,12 @@
 
 ### JS
   1. this
-  2. new operator（手写）
+  2. [new operator](https://github.com/diveDylan/blog/issues/66)
   3. prototype (赋值，新增属性的区别)
   4. super
   5. extend
   6. promise （手写）
-  7. call、apply、bind （手写）
+  7. [call、apply、bind](https://github.com/diveDylan/re-Learning/blob/7bb8ef22a8a279661c906e6399bb8ed92a7d3867/src/js/function/call%26apply%26bind.js)
   8. number
   9. deepClone （手写）
   10. generator
@@ -20,7 +20,7 @@
 ### http
   1. http cache
   2. tcp handshake
-  3. TLS handshake
+  3. [TLS handshake](https://github.com/diveDylan/blog/issues/64)
   4. cookie（域名、httponly、expires）
   5. option 预检
   6. 什么是跨域，解决方案
@@ -45,16 +45,19 @@
   4. 输入地址到页面展示的过程
 
 ### dom
-  1、冒泡和捕获
-  2、事件委托
+  1. 冒泡和捕获
+  2. 事件委托
 
 ### 个人规划
-  1、团队管理的压力下放
-  2、绩效和年终的管理模式
-  3、团队从0到1的搭建
-  4、如何定位团队的价值，根据价值组建一个健康的团队
-  5、团队的成长
-  6、团队价值和组员价值的匹配
+  1. 团队管理的压力下放
+  2. 绩效和年终的管理模式
+  3. 团队从0到1的搭建
+  4. 如何定位团队的价值，根据价值组建一个健康的团队
+  5. 团队的成长
+  6. 团队价值和组员价值的匹配
   
+
+### 算法
+   1. 背包算法
 
   
